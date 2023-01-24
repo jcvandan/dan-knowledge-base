@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/kb",
   siteMetadata: {
     siteTitle: `Rocket Docs`,
     defaultTitle: `Rocket Docs`,
