@@ -1,24 +1,18 @@
 # Sidebar navigation
 
-- label: 'Introduction'
-  link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: 'Architecture'
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-    - label: 'Using YAML files'
-      link: '/usage/using-yaml-files'
-    - label: 'Remark Plugins'
-      link: '/usage/remark-plugins'
-- label: More
+    - label: 'Observability'
+      link: '/architecture/observability'
+    - label: 'Performance'
+      link: '/architecture/performance'
+    - label: 'Resiliency'
+      link: '/architecture/resiliency'
+    - label: 'Scalability'
+      link: '/architecture/scalability'
+    - label: 'Security'
+      link: '/architecture/security'
+- label: 'Codez'
   items:
-    - label: FAQ
-      link: /faq
-    - label: 'Github'
-      link: https://github.com/jpedroschmitz/rocketdocs
+    - label: 'My Example'
+      link: '/my-example'
